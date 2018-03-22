@@ -2412,3 +2412,27 @@ width:515px;
     font-size: 20px bold;
 
 }
+
+
+/* Thumbnail cot */
+
+.thumbnail-container{
+        height:400px;
+        width: 700px;
+        margin: 15px;
+}
+
+table tr td{
+    width: 200px;
+    height: 150px;
+    margin: 15px;
+    
+    
+}
+
+table tr td img{
+    width: 200px;
+    height: 150px; 
+    margin: 15px;    
+    
+}
